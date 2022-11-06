@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godofslp
-- 👀 I’m interested in python
-- 🌱 I’m currently learning pygame
+- 👀 I’m interested in Python / C# / AI / Streaming Service / Reverse Engineering
+- 🌱 I’m currently learning Capstone
 - 💞️ I’m looking to collaborate on study
 - 📫 How to reach me godofslp@gmail.com
 
